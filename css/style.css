@@ -23,7 +23,7 @@ html {
 body {
   background: var(--bg-color);
   color: var(--text-color);
-  font-family: var(--body-stack);
+  font-family: 'Playfair Display SC', 'Noto Serif SC',serif;
   font-size: 16px;
   font-size: clamp(16px, 2.4vw, 21px);
   margin: auto;
@@ -55,7 +55,7 @@ body {
 }
  
 #title {
-  font-family: var(--title-stack);
+  font-family: 'Playfair Display SC', 'Noto Serif SC',serif;
   font-size: 2em;
   font-weight: 900;
   letter-spacing: 0.05em;
@@ -69,7 +69,7 @@ body {
 }
 
 .nav-link, .nav-spacer, .article-more-link {
-  font-family: var(--secondary-stack);
+  font-family: 'Playfair Display SC', 'Noto Serif SC',serif;
   color: var(--secondary-color);
 }
 
@@ -90,7 +90,7 @@ body {
 }
  
 .article-title {
-  font-family: var(--title-stack);
+  font-family: 'Playfair Display SC', 'Noto Serif SC',serif;
   font-size: 2em;
   font-weight: normal;
   letter-spacing: 0.05em;
@@ -109,7 +109,7 @@ body {
  
 .article-meta, .archive-article-date, .article-nav, .page-nav, .article-footer, .archive-article-word-count {
   color: var(--secondary-color);
-  font-family: var(--secondary-stack);
+  font-family: 'Playfair Display SC', 'Noto Serif SC',serif;
   font-size: 0.9em;
   height: auto;
   line-height: inherit;
