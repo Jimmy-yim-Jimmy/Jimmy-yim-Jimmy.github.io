@@ -139,7 +139,7 @@ body {
 .month {
   color: var(--secondary-color);
   cursor: pointer;
-  font-family: var(--secondary-stack);
+  font-family: 'Playfair Display SC', 'Noto Serif SC',serif;
 }
 
 .hidden, .hidden-input {
@@ -284,9 +284,9 @@ blockquote {
 .pullquote {
   border: 0;
   color: var(--secondary-color);
-  font-size: 1.2em;
-  font-family: var(--secondary-stack);
-  margin: 0;
+  font-size: 0.9em;
+  font-family: 'Playfair Display SC', 'Noto Serif SC',serif;
+  margin: 3;
   width: 40%;
 }
 
@@ -350,7 +350,7 @@ blockquote {
 
 .article-category, .article-tag {
   color: var(--secondary-color);
-  font-family: var( --secondary-stack);
+  font-family: 'Playfair Display SC', 'Noto Serif SC',serif;
   margin-top: 2em;
 }
 
